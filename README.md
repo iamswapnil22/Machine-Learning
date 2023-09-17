@@ -3,3 +3,4 @@ Welcome to my daily machine learning coding projects repository! In this reposit
 
 ## Project Structure
 Each day, I work on a new machine learning project or concept. Below, you can find a list of my daily updates.
+
