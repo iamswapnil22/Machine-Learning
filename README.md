@@ -3,3 +3,9 @@ Welcome to my daily machine learning coding projects repository! In this reposit
 
 ## Project Structure
 Each day, I work on a new machine learning project or concept. Below, you can find a list of my daily updates.
+
+### [Supervised Learning - Regression](./Supervised%20Learning%20-%20Regression)
+In this directory, you will find my daily projects related to supervised learning regression tasks. Click the link to explore these projects.
+
+### [Supervised Learning - Classification](./Supervised%20Learning%20-%20Classification)
+In this directory, you will find my daily projects related to supervised learning classification tasks. Click the link to explore these projects.
