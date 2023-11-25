@@ -11,6 +11,3 @@ You will find my daily projects related to supervised learning regression tasks 
 You will find my daily projects related to supervised learning classification tasks in this directory. Click the link to explore these projects.
 
 Note: For Better Understanding Open the Notebook in Kaggle with Link on Top-Left Corner in Notebook.  <img width="80" alt="image" src="https://github.com/iamswapnil22/Machine-Learning/assets/95163993/cdb8f8b6-e306-4cd2-84c8-cf04710fe7a0">
-
-
-Swapnil
