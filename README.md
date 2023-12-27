@@ -1,4 +1,18 @@
-# Daily Machine Learning Coding Projects
+
+<h1 align="center">
+Daily Machine Learning Coding Projects
+  
+![GitHub followers](https://img.shields.io/github/followers/iamswapnil22?color=Blue&style=social)
+![GitHub forks](https://img.shields.io/github/forks/iamswapnil22/Machine-Learning?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/iamswapnil22/Machine-Learning?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/iamswapnil22/Machine-Learning?style=social)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamswapnil22/Machine-Learning)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/iamswapnil22/Machine-Learning?label=Pull%20Requests)
+![GitHub issues](https://img.shields.io/github/issues/Aryanp45/Machine-Learning?label=Issues)
+
+
+
 Welcome to my daily machine-learning coding projects repository! In this repository, I document my journey as a beginner in machine learning, where I work on various small projects to build my skills and knowledge.
 
 ## Project Structure
