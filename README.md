@@ -9,7 +9,7 @@ Daily Machine Learning Coding Projects
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamswapnil22/Machine-Learning)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/iamswapnil22/Machine-Learning?label=Pull%20Requests)
-![GitHub issues](https://img.shields.io/github/issues/Aryanp45/Machine-Learning?label=Issues)
+![GitHub issues](https://img.shields.io/github/issues/iamswapnil22/Machine-Learning?label=Issues)
 
 <h3 align='center'>
 
