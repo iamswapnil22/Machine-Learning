@@ -10,7 +10,6 @@ Daily Machine Learning Coding Projects
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/iamswapnil22/Machine-Learning?label=Pull%20Requests)
 ![GitHub issues](https://img.shields.io/github/issues/iamswapnil22/Machine-Learning?label=Issues)
 
-
 <h3 align='center'>
 
 Welcome to my daily machine-learning coding projects repository! In this repository, I document my journey as a beginner in machine learning, where I work on various small projects to build my skills and knowledge.
