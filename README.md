@@ -14,7 +14,6 @@ Daily Machine Learning Coding Projects
 
 Welcome to my daily machine-learning coding projects repository! In this repository, I document my journey as a beginner in machine learning, where I work on various small projects to build my skills and knowledge.
 
-
 ## Project Structure
 Each day, I work on a new machine-learning project or concept. Below, I've included a list of my daily updates for you.
 
