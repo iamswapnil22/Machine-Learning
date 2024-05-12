@@ -28,4 +28,3 @@ Note: For Better Understanding Open the Notebook in Kaggle with Link on Top-Left
 Some Repos:
 
 1. https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning?tab=readme-ov-file
-
