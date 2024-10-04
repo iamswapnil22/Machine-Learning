@@ -1,6 +1,7 @@
 <h1 align="center">
 Daily Machine Learning Coding Projects
 
+
 ![GitHub followers](https://img.shields.io/github/followers/iamswapnil22?color=Blue&style=social)
 ![GitHub forks](https://img.shields.io/github/forks/iamswapnil22/Machine-Learning?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/iamswapnil22/Machine-Learning?style=social)
